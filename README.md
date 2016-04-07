@@ -1,2 +1,2 @@
 # AutoPing
-Python / Windows script to ping a range of ip adresses, coalate responses, and return active adresses.
+Python / Windows script to ping a range of ip adresses, collate responses, and return active adresses.
