@@ -12,4 +12,6 @@ In the future this program may be ported to linux, since the commands are simmil
 - This progam currently only scans ranges on the last digit set (192.168.1.1-10 works, but 192.168.1-10.1 does not work)
 - This program is network intensive. Do not try this at peak network times, as the ping command hogs network resources, and for that reason is not typically automated.
 
+__Note: Some Python installations may not recognize .py files as python by default, if this ocurrs, simply set python as the default program for .py files ( start > Default Programs > Associate a file type or protocol with a program__
+
 **This project is licensed under the MIT open source license, refer to the LICENSE.md file for details.**
