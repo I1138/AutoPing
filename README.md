@@ -3,13 +3,13 @@ Python / Windows script to ping a range of ip adresses, collate responses, and r
 In the future this program may be ported to linux, since the commands are simmilar, and many users prefer linux.
 
 ## Requires: 
-- Python 3.5 (tested) or prevoius versions (theoretical)
+- Python 3.5 (tested) or previous versions (theoretical)
 - Windows / Dos shell (Ping, Findstr)
 - (optional) Windows Shell scripts (.cmd)
 
 ## Use:
-- when run, the program will ask for an ip adress range. This should be supplied in the format: 192.168.1.1-10 (but substitute your own ip adress range)
-- this progam currently only scans ranges on the last digit set (192.168.1.1-10 works, but 192.168.1-10.1 does not work)
-- this program is network intensive. Do not try this at peak network times, as the ping command hogs network resources, and for that reason is not typically automated.
+- When run, the program will ask for an ip adress range. This should be supplied in the format: 192.168.1.1-10 (but substitute your own ip adress range)
+- This progam currently only scans ranges on the last digit set (192.168.1.1-10 works, but 192.168.1-10.1 does not work)
+- This program is network intensive. Do not try this at peak network times, as the ping command hogs network resources, and for that reason is not typically automated.
 
-### This project is licensed under the MIT open source license, refer to the LICENSE.md file for details.
+**This project is licensed under the MIT open source license, refer to the LICENSE.md file for details.**
