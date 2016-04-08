@@ -1,6 +1,6 @@
 # AutoPing V 1.0
 Python / Windows script to ping a range of ip adresses, collate responses, and return active adresses.
-## Uses: 
+## Requires: 
 - Python 3.5 (tested) or prevoius versions (theoretical)
 - Windows / Dos shell (Ping, Findstr)
 - (optional) Windows Shell scripts (.cmd)
