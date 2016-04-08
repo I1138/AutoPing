@@ -4,7 +4,7 @@ Python / Windows script to ping a range of ip adresses, collate responses, and r
 This program now has a _minimally working_ linux port, with updates on the way. Check out the AutoPing_Linux branch for more deatails.
 
 ## Requires: 
-- Python 3.5 (tested) or previous versions (theoretical)
+- Python 3.5 (tested) or previous versions (theoreticaly working, but untested)
 - Windows / Dos shell (Ping, Findstr)
 - (optional) Windows Shell scripts (.cmd)
 
