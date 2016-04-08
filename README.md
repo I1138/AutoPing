@@ -1,6 +1,7 @@
-# AutoPing V 0.1 for Linux
+# AutoPing V 0.1 Alpha for Linux
 Python / Linux script to ping a range of ip adresses, collate responses, and return active adresses.
-In the future this program may be ported to linux, since the commands are simmilar, and many users prefer linux.
+This program is a simple linux port of AutoPing v1.0 for Windows.
+_This Program has many known issues, and will be problematic until someone revises the shell commands, and updates the string parsing._
 
 ## Requires: 
 - Python 3.5 (tested) or previous versions (theoretical)
