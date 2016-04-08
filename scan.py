@@ -21,7 +21,7 @@ bottom = adress.pop(0)
 #print(bottom)
 for i in range(last-first+1):
         received = "false"
-        cmd = "ping /n 1 " + top + "." + middle + "." + bottom + "." + str(current) + " | findstr Reply"
+        cmd = "ping " + top + "." + middle + "." + bottom + "." + str(current) + " | findstr Reply"
         text = subprocess.run(cmd,stderr=subprocess.STDOUT,shell=True,stdout=subprocess.PIPE)
         text = str(text)
         #print(text)
